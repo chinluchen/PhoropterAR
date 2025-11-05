@@ -1,0 +1,22 @@
+# Xcode / Swift / iOS
+.DS_Store
+build/
+DerivedData/
+*.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+*.xcuserstate
+*.xccheckout
+xcuserdata/
+# SwiftPM
+.swiftpm/
+.build/
+# CocoaPods
+Pods/
+Podfile.lock
+# Carthage
+Carthage/Build/
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+# Other
+*.log
